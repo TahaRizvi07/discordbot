@@ -10,7 +10,7 @@ import youtube_dl
 
 
 load_dotenv()
-TOKEN = *hidden for privacy purposes*
+TOKEN = #hidden for privacy purposes
 GUILD = 'Fluffster\'s Server'
 
 bot = commands.Bot(command_prefix=',')
